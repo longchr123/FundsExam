@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/umeng_comm_color_f5"
+    android:gravity="center">
+
+
+    <TextView
+        android:id="@+id/umeng_comm_comment_send_button"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/umeng_comm_dimen_56px"
+        android:layout_marginBottom="@dimen/umeng_comm_dimen_6px"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_10px"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_10px"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_16px"
+        android:background="@drawable/umeng_comm_rounded_corner_backgroud"
+        android:drawableLeft="@drawable/umeng_comm_search_icon"
+        android:drawablePadding="@dimen/umeng_comm_dimen_10px"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/umeng_comm_dimen_10px"
+        android:text="@string/umeng_comm_search_view_hint"
+        android:textColor="@color/umeng_comm_color_c5"
+        android:textSize="@dimen/umeng_comm_text_26px" />
+
+
+    <TextView
+        android:id="@+id/umeng_comm_feeds_tips"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#4188db"
+        android:gravity="center"
+        android:text="@string/umeng_comm_no_recommend_user"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/umeng_comm_text_26px"
+        android:visibility="gone" />
+
+</FrameLayout>

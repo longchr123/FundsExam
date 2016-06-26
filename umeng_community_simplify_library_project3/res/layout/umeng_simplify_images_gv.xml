@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.umeng.common.ui.widgets.WrapperGridView
+        android:id="@+id/umeng_comm_msg_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:columnWidth="80dp"
+        android:focusable="false"
+        android:horizontalSpacing="@dimen/umeng_comm_dimen_4px"
+        android:listSelector="@color/umeng_comm_color_transparent"
+        android:numColumns="3"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="@dimen/umeng_comm_dimen_4px" />
+
+    <ViewStub
+        android:id="@+id/umeng_comm_progress_viewstub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inflatedId="@+id/umeng_comm_friends_progressbar"
+        android:layout="@layout/umeng_comm_progressbar" />
+
+</FrameLayout>

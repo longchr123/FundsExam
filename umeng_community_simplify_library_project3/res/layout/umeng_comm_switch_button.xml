@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/uemng_switch_button_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_16px"
+        android:paddingBottom="@dimen/umeng_comm_dimen_16px"
+        android:background="@color/umeng_comm_color_f5"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/umeng_switch_button_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/umeng_switch_leftbutton_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="@string/umeng_comm_oneday"
+            android:textColor="@color/umeng_switch_textcolor"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/umeng_switch_button_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/umeng_switch_centerbutton_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="@string/umeng_comm_threeday"
+            android:textColor="@color/umeng_switch_textcolor"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/umeng_switch_button_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/umeng_switch_centerbutton_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="@string/umeng_comm_sevenday"
+            android:textColor="@color/umeng_switch_textcolor"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/umeng_switch_button_four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/umeng_switch_rightbutton_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="@string/umeng_comm_thrityday"
+            android:textColor="@color/umeng_switch_textcolor"
+            android:textSize="12dp" />
+    </LinearLayout>
+</RelativeLayout>

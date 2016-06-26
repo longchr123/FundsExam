@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\umeng_comm_topic_toogle_color.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\color\\umeng_comm_topic_toogle_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\umeng_switch_textcolor.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\color\\umeng_switch_textcolor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\umeng_comm_toogle_color.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\color\\umeng_comm_toogle_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\umeng_comm_location_text.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\color\\umeng_comm_location_text.xml"
+    }
+]

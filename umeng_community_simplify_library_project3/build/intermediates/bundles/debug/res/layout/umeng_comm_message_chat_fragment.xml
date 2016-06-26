@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f5f6fa">
+
+    <com.umeng.common.ui.widgets.ChatInputView
+        android:id="@+id/umeng_comm_message_chat_inputview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:gravity="center|left" />
+
+    <View
+        android:id="@+id/divider_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/umeng_comm_dimen_1px"
+        android:layout_above="@id/umeng_comm_message_chat_inputview"
+        android:background="@color/umeng_comm_color_de" />
+
+    <com.umeng.common.ui.widgets.RefreshLvLayout
+        android:id="@+id/umeng_comm_swipe_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/divider_line">
+
+        <ListView
+            android:id="@+id/umeng_comm_notify_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:fadingEdgeLength="0.0sp"
+            android:fastScrollEnabled="false"
+            android:headerDividersEnabled="false"
+            android:listSelector="@android:color/transparent"
+            android:scrollbars="none"
+            android:scrollingCache="false" />
+
+
+    </com.umeng.common.ui.widgets.RefreshLvLayout>
+
+
+</RelativeLayout>

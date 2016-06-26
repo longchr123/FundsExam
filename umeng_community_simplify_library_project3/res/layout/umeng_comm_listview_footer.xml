@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/umeng_comm_comments_bg"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_default_footer_inner_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/umeng_comm_comments_bg"
+        android:gravity="center">
+
+
+        <RelativeLayout
+            android:id="@+id/umeng_comm_default_footer_loading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/umeng_comm_dimen_16px"
+            android:paddingTop="@dimen/umeng_comm_dimen_10px"
+            android:visibility="visible">
+
+            <View
+                android:id="@+id/umeng_comm_default_footer_dot"
+                android:layout_width="@dimen/umeng_comm_dimen_1px"
+                android:layout_height="@dimen/umeng_comm_dimen_1px"
+                android:layout_centerInParent="true" />
+
+            <ProgressBar
+                android:id="@+id/pull_to_refresh_load_progress"
+                style="@android:style/Widget.ProgressBar.Small.Inverse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/umeng_comm_dimen_24px"
+                android:layout_toLeftOf="@id/umeng_comm_default_footer_dot"
+                android:indeterminate="true" />
+
+            <TextView
+                android:id="@+id/pull_to_refresh_loadmore_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/umeng_comm_dimen_24px"
+                android:layout_toRightOf="@id/umeng_comm_default_footer_dot"
+                android:gravity="center"
+                android:paddingTop="5dip"
+                android:text="@string/umeng_comm_loading"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="@dimen/umeng_comm_text_28px"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/umeng_comm_default_footer_not_more"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/umeng_comm_dimen_76px"
+            android:gravity="center"
+            android:text="已经到最后一页了"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="@dimen/umeng_comm_text_28px"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/umeng_comm_default_footer_login_tips"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/umeng_comm_dimen_76px"
+            android:gravity="center"
+            android:text="@string/umeng_comm_login_to_look_more"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="@dimen/umeng_comm_text_28px"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+</LinearLayout>

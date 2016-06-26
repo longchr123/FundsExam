@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_image_browser_out.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_image_browser_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_dialog_in.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_dialog_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_translate_up_current.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_translate_up_current.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_activity_alpha_action_in.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_dialog_out.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_dialog_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_pb_default.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_pb_default.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_translate_down.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_translate_down.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_translate_down_img.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_translate_down_img.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_translate_up.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_translate_up.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_image_browser_in.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_image_browser_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_translate_down_current.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_translate_down_current.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_comm_translate_up_img.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_comm_translate_up_img.xml"
+    }
+]

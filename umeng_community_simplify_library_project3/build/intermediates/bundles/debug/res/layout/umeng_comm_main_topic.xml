@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--<LinearLayout-->
+    <!--android:id="@+id/umeng_comm_button_group"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:orientation="horizontal"-->
+    <!--android:layout_height="48dp"-->
+    <!--android:gravity="center">-->
+    <!--<Button-->
+    <!--android:id="@+id/umeng_comm_focus_button"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#ffffff"-->
+    <!--android:paddingRight="10dp"-->
+    <!--android:paddingLeft="10dp"-->
+    <!--android:text="我关注的"/>-->
+    <!--<Button-->
+    <!--android:id="@+id/umeng_comm_recommend_button"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#ffffff"-->
+    <!--android:paddingRight="10dp"-->
+    <!--android:paddingLeft="10dp"-->
+    <!--android:text="推荐话题"/>-->
+    <!--<Button-->
+    <!--android:id="@+id/umeng_comm_all_button"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#ffffff"-->
+    <!--android:paddingRight="10dp"-->
+    <!--android:paddingLeft="10dp"-->
+    <!--android:text="全部话题"/>-->
+    <!--</LinearLayout>-->
+
+    <!--<fragment android:name="FocusedTopicFragment"-->
+    <!--android:id="@+id/focusfragment"-->
+    <!--android:layout_below="@id/topic_action_bar"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<fragment android:name="TopicFragment"-->
+    <!--android:id="@+id/recommendfragment"-->
+    <!--android:layout_below="@id/topic_action_bar"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<fragment android:name="CategoryFragment"-->
+    <!--android:id="@+id/categoryfragment"-->
+    <!--android:layout_below="@id/topic_action_bar"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <LinearLayout
+        android:id="@+id/uemng_switch_button_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@color/umeng_comm_feed_list_bg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/umeng_comm_dimen_14px"
+        android:paddingTop="@dimen/umeng_comm_dimen_14px">
+
+        <TextView
+            android:id="@+id/umeng_switch_button_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/umeng_switch_leftbutton_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="@string/umeng_comm_myfocused"
+            android:textColor="@color/umeng_switch_textcolor"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/umeng_switch_button_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/umeng_switch_centerbutton_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="@string/umeng_comm_recommendtopic"
+            android:textColor="@color/umeng_switch_textcolor"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/umeng_switch_button_four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/umeng_switch_rightbutton_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="@string/umeng_comm_alltopic"
+            android:textColor="@color/umeng_switch_textcolor"
+            android:textSize="12dp" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/id_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/uemng_switch_button_container" />
+</RelativeLayout>

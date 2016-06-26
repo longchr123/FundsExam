@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="E:\workspace\JiJin\umeng_community_simplify_library_project3\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\workspace\JiJin\umeng_community_simplify_library_project3\src\androidTest\assets"/><source path="E:\workspace\JiJin\umeng_community_simplify_library_project3\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

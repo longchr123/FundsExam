@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:background="@android:color/transparent">
+
+    <RelativeLayout
+        android:id="@+id/rl_dialog_content"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <WebView
+            android:id="@+id/wv"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:gravity="center"
+            android:focusable="false"
+            android:clickable="false"
+            android:scrollbars="none"
+            android:overScrollMode="always"
+            />
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="360dp"
+            android:id="@+id/iv_medal"
+            android:layout_centerInParent="true"
+            android:background="#00000000"/>
+
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/dialog_close"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@mipmap/dialog_close" />
+
+
+</RelativeLayout>

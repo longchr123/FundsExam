@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/umeng_comm_vp_base_app"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_title_heigh_img"
+        android:id="@+id/transhlate_layout"
+        android:background="@android:color/transparent"
+        android:layout_alignParentTop="true">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/translate_bg"
+            android:layout_alignParentTop="true"
+            android:background="@color/umeng_comm_black_color"
+            android:alpha="0.2"
+            />
+        <Button
+            android:id="@+id/check_image"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="55dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/umeng_comm_image_pick"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_layout_top_app"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_title_heigh"
+        android:layout_alignParentTop="true"
+        android:background="@color/umeng_comm_white_color" >
+
+
+        <ImageView
+            android:id="@+id/umeng_comm_btn_back_app"
+            android:layout_width="37dp"
+            android:layout_height="37dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/umeng_comm_title_back"
+            android:scaleType="centerInside"/>
+        <TextView
+            android:id="@+id/umeng_comm_tv_percent_app"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_centerInParent="true"
+            android:textSize="18dp"
+            android:background="@color/umeng_comm_white_color"
+            android:textColor="@color/umeng_comm_color_666666" />
+        <TextView
+            android:id="@+id/umeng_comm_check_percent_app"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:textSize="13dp"
+            android:background="@drawable/umeng_comm_blue_button_bg"
+            android:textColor="@android:color/white" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

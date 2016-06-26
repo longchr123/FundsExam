@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/umeng_comm_dimen_130px"
+    android:background="@color/umeng_comm_white_color"
+    android:orientation="vertical">
+
+    <com.umeng.common.ui.widgets.RoundCornerImageView
+        android:id="@+id/category_item_icon"
+        android:layout_width="@dimen/umeng_comm_dimen_90px"
+        android:layout_height="@dimen/umeng_comm_dimen_90px"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:src="@drawable/huatizu" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_32px"
+        android:src="@drawable/jiantou" />
+
+    <TextView
+        android:id="@+id/category_item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/category_item_icon"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_4px"
+        android:layout_toRightOf="@id/category_item_icon"
+        android:ellipsize="end"
+        android:maxWidth="@dimen/umeng_comm_dimen_360px"
+        android:singleLine="true"
+        android:textColor="@color/umeng_text_common_selected"
+        android:textSize="@dimen/umeng_comm_text_30px" />
+
+    <TextView
+        android:id="@+id/category_item_des"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/category_item_icon"
+        android:layout_alignLeft="@id/category_item_title"
+        android:layout_below="@id/category_item_title"
+        android:layout_marginBottom="@dimen/umeng_comm_dimen_4px"
+        android:ellipsize="end"
+        android:maxWidth="@dimen/umeng_comm_dimen_360px"
+        android:singleLine="true"
+        android:textColor="@color/umeng_text_common_default"
+        android:textSize="@dimen/umeng_comm_dimen_24px" />
+
+    <View
+        android:layout_alignLeft="@id/category_item_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/umeng_comm_dimen_1px"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/category_item_icon"
+        android:background="@color/umeng_comm_divider" />
+</RelativeLayout>

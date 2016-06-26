@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/umeng_comm_ll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 消息流列表 -->
+
+    <com.umeng.common.ui.widgets.RefreshLvLayout
+        android:id="@+id/umeng_comm_swipe_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ListView
+            android:id="@+id/umeng_comm_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#eeeff3"
+            android:dividerHeight="@dimen/umeng_comm_dimen_1px"
+            android:fadingEdgeLength="0.0sp"
+            android:fastScrollEnabled="false"
+            android:headerDividersEnabled="false"
+            android:listSelector="@android:color/transparent"
+            android:scrollbars="none"
+            android:scrollingCache="false" />
+    </com.umeng.common.ui.widgets.RefreshLvLayout>
+
+    <com.umeng.common.ui.widgets.BaseView
+        android:id="@+id/umeng_comm_baseview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+</RelativeLayout>

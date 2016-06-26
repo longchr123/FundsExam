@@ -1,0 +1,234 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp" >
+    <!--帖子收藏-->
+    <RelativeLayout
+        android:id="@+id/umeng_comm_savepost_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/umeng_comm_more_radius_top" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+
+
+            <TextView
+                android:id="@+id/umeng_comm_savepost_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:gravity="center"
+                android:text="@string/umeng_comm_favorites"
+                android:layout_centerInParent="true"
+                android:textColor="@color/umeng_comm_color_17"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!--分享-->
+    <RelativeLayout
+        android:id="@+id/umeng_comm_share_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_savepost_layout"
+        android:layout_marginTop="1px"
+        android:background="@drawable/umeng_comm_more_radius_none" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+
+
+            <TextView
+                android:id="@+id/umeng_comm_share_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_centerInParent="true"
+                android:textColor="@color/umeng_comm_color_17"
+                android:gravity="center"
+                android:text="@string/umeng_comm_share"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+    <!--&lt;!&ndash;用户举报&ndash;&gt;-->
+    <RelativeLayout
+        android:id="@+id/umeng_comm_userreport_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_share_layout"
+        android:layout_marginTop="1px"
+        android:background="@drawable/umeng_comm_more_radius_none" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+
+            <TextView
+                android:id="@+id/umeng_comm_userreport_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_centerInParent="true"
+                android:textColor="@color/umeng_comm_color_17"
+                android:gravity="center"
+                android:text="@string/umeng_comm_spam_user"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!--设计为精华-管理员可见-->
+    <RelativeLayout
+        android:id="@+id/umeng_comm_recommend_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_userreport_layout"
+        android:layout_marginTop="1px"
+        android:background="@drawable/umeng_comm_more_radius_none" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+
+
+            <TextView
+                android:id="@+id/umeng_comm_recommend_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_centerInParent="true"
+                android:textColor="@color/umeng_comm_color_17"
+                android:gravity="center"
+                android:text="@string/umeng_comm_set_jing"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- 举报 -->
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_report_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_recommend_layout"
+        android:layout_marginTop="1px"
+        android:background="@drawable/umeng_comm_more_radius_none" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+
+
+            <TextView
+                android:id="@+id/umeng_comm_report_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_centerInParent="true"
+                android:textColor="@color/umeng_comm_color_17"
+                android:gravity="center"
+                android:text="@string/umeng_comm_spam_content"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- 删除 -->
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_delete_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_report_layout"
+        android:layout_marginTop="1px"
+        android:background="@drawable/umeng_comm_more_radius_none">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+
+            <TextView
+                android:id="@+id/umeng_comm_delete_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_centerInParent="true"
+                android:textColor="@color/umeng_comm_color_17"
+                android:gravity="center"
+                android:text="@string/umeng_comm_delete"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- 复制 -->
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_copy_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_delete_layout"
+        android:layout_marginTop="1px"
+        android:background="@drawable/umeng_comm_more_radius_bottom" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+
+            <TextView
+                android:id="@+id/umeng_comm_copy_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="15dp"
+                android:layout_centerInParent="true"
+                android:textColor="@color/umeng_comm_color_17"
+                android:gravity="center"
+                android:text="@string/umeng_comm_copy"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- 取消 -->
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_cancel_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_copy_layout"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/umeng_comm_radius_bg" >
+
+        <TextView
+            android:id="@+id/umeng_comm_cancel_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="@string/umeng_comm_cancel"
+            android:layout_centerInParent="true"
+            android:textColor="@color/umeng_comm_color_17"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="umeng_comm_login_user_invalid">登录用户必须包含用户id、昵称、source</string>
+    <string name="umeng_comm_duplicate_name">昵称已存在，请修改昵称&#8230;</string>
+    <string name="umeng_comm_user_name_tips">非法昵称,昵称只能由2~20个中文、数字、英文字母以及下划线组成</string>
+    <string name="umeng_comm_login_username_sensitive">登录失败,您的昵称包含敏感词</string>
+    <string name="umeng_comm_user_deleted">该用户已经被删除，请联系管理员</string>
+    <string name="umeng_comm_user_name_illegal_char">非法昵称,昵称包含非法字符</string>
+    <string name="umeng_comm_device_forbiddened">该设备已经被禁止，请联系管理员~</string>
+    <string name="umeng_comm_close_community">社区已经被强制关闭，暂时无法访问请见谅~</string>
+    <string name="umeng_comm_login_failed">登录失败，请重试&#8230;</string>
+    <string name="umeng_comm_login_failed_register">当前网络忙，请稍后重试</string>
+    <string name="umeng_comm_load_failed">加载失败</string>
+    <string name="umeng_comm_user_same">此账号已被使用，换一个吧！</string>
+    <string name="umeng_comm_invalid_token">登录信息已过期,请重新登录</string>
+    <string name="umeng_comm_user_unusable">操作失败,用户被删除或者禁言</string>
+    <string name="umeng_comm_device_forbidden">该设备已经被屏蔽，请联系社区管理员</string>
+    <string name="umeng_comm_not_network">抱歉,没有网络连接</string>
+
+</resources>

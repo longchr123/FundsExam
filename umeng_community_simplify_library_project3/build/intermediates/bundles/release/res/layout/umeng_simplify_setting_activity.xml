@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/umeng_comm_f6f7f9"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_title_bar_root"
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+
+        <ImageView
+            android:id="@+id/umeng_comm_setting_back"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/umeng_comm_new_post"
+            android:padding="@dimen/umeng_comm_dimen_20px"
+            android:scaleType="centerInside"
+            android:src="@drawable/umeng_backward" />
+
+        <TextView
+            android:id="@+id/umeng_comm_setting_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:ellipsize="end"
+            android:maxWidth="@dimen/umeng_comm_dimen_320px"
+            android:singleLine="true"
+            android:text="@string/umeng_comm_account_setting"
+            android:textColor="@color/umeng_comm_color_33"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/umeng_comm_save_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/umeng_comm_dimen_48px"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/umeng_color_12_bg"
+            android:gravity="center"
+            android:textColor="@color/umeng_comm_white_color"
+            android:textSize="@dimen/umeng_comm_text_28px" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="168dp"
+        android:background="@color/umeng_comm_469ef8">
+
+        <com.umeng.common.ui.widgets.RoundImageView
+            android:id="@+id/user_head_icon"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_centerInParent="true"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:layout_width="@dimen/umeng_comm_dimen_44px"
+            android:layout_height="@dimen/umeng_comm_dimen_44px"
+            android:layout_alignBottom="@id/user_head_icon"
+            android:layout_alignRight="@id/user_head_icon"
+            android:visibility="visible"
+            android:src="@drawable/umeng_simplify_setting_photo_icon" />
+
+        <TextView
+            android:id="@+id/umeng_comm_user_account_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_head_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+            android:layout_marginRight="@dimen/umeng_comm_dimen_20px"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:text=""
+            android:layout_marginTop="@dimen/umeng_comm_dimen_20px"
+            android:textColor="@color/umeng_comm_white_color"
+            android:textSize="@dimen/umeng_comm_text_28px" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/umeng_comm_white_color">
+
+        <TextView
+            android:id="@+id/nickname_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:text="@string/umeng_comm_nickname"
+            android:textColor="@color/umeng_comm_color_99"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@+id/setting_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@id/nickname_tag"
+            android:background="@null"
+            android:padding="5dp"
+            android:textColor="@color/umeng_comm_color_99"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="30dp"
+            android:background="@color/umeng_comm_f6f7f9" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/umeng_comm_white_color">
+
+        <TextView
+            android:id="@+id/gender_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="@string/umeng_comm_gender"
+            android:textColor="@color/umeng_comm_color_99"
+            android:textSize="12sp" />
+
+        <RadioGroup
+            android:id="@+id/genderGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@id/gender_tag"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/maleButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:button="@null"
+                android:checked="true"
+                android:drawableLeft="@drawable/umeng_radio_button_bg"
+
+                android:drawablePadding="5dp"
+                android:text="@string/umeng_comm_man" />
+
+            <RadioButton
+                android:id="@+id/femaleButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+
+                android:button="@null"
+                android:drawableLeft="@drawable/umeng_radio_button_bg"
+                android:drawablePadding="5dp"
+                android:text="@string/umeng_comm_woman"
+
+                />
+        </RadioGroup>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:id="@+id/setting_loginout"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/umeng_item_bg"
+            android:gravity="center"
+            android:text="@string/umeng_simplify_setting_logout"
+            android:textColor="@color/umeng_comm_ff3"
+            android:textSize="14sp" />
+    </RelativeLayout>
+    <!--<FrameLayout-->
+    <!--android:id="@+id/umeng_comm_setting_content"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" >-->
+    <!--</FrameLayout>-->
+
+</LinearLayout>

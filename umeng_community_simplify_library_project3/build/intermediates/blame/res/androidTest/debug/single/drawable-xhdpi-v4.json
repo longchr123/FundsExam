@@ -1,0 +1,678 @@
+[
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_tick.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_tick.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\faxian.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\faxian.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_gender_female.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_gender_female.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_slider_normal.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_switch_slider_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\huatizu.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\huatizu.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_like_p.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_comment_like_p.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\jia.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jia.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_top.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_item_top.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\haoyouquan.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\haoyouquan.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_topic_recommend.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_topic_recommend.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_comment_n.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_comment_comment_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_nearby_user_loc_icon.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_nearby_user_loc_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_pop_arrow.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_pop_arrow.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\zhuangfa.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\zhuangfa.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\zan.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\zan.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\zhaopian.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\zhaopian.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pinglunpc.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pinglunpc.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_gender_male.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_gender_male.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_bg_album_border.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_bg_album_border.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xuanzhong.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xuanzhong.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_like_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_like_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_xiaolian.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_xiaolian.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\jiaw.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jiaw.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_camera.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_camera.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\sixin.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sixin.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_like_more_user_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_like_more_user_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_arrow.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_arrow.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_favorite_n.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_favorite_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_new_post_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_new_post_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kuangc.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kuangc.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\zhongbai.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\zhongbai.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_search_icon.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_search_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_photo_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_photo_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_p.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_p.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_like_white.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_like_white.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_arrow.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_msg_arrow.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_discuss_announce.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_discuss_announce.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_send_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_send_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dameiza.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dameiza.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_favorite_p.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_favorite_p.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_album.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_album.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xialahui.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xialahui.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\youbai.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\youbai.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_like_n.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_comment_like_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_notification.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_notification.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_camera_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_like_more_user_normal.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_like_more_user_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\zhonglan.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\zhonglan.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_my_msg_arrow.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_my_msg_arrow.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\tiezizanc.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\tiezizanc.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dibiao.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dibiao.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\shezhi.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\shezhi.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_photo.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_photo.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_back_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_back_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xuan.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xuan.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_cancel.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_cancel.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_top_announce.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_top_announce.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_n.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\shoucang.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\shoucang.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_comment_n.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_comment_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_emoji_keyboard.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_emoji_keyboard.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\tishih.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\tishih.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_like.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_msg_like.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\jing.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jing.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\tishib.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\tishib.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_loading_white.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_ic_loading_white.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_nearby_user.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_nearby_user.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_back.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_back.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\tiezipinglunc.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\tiezipinglunc.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_send.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_send.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_like.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_item_like.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\duihuakuang1.9.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\duihuakuang1.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_more.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_more.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\feedbuttonbg.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\feedbuttonbg.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_top.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_top.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_bg.9.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_forward_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\youlan.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\youlan.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_topic_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_topic_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_frame.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_switch_frame.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pinglunph.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pinglunph.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_loc_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_loc_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_image_delete.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_image_delete.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pinglunzanh.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pinglunzanh.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_user_add_follow_btn.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_user_add_follow_btn.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_reply.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_reply.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xuanzhongtupian.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xuanzhongtupian.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_post_feed_arrow.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_post_feed_arrow.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\tiezipinglunh.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\tiezipinglunh.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xietiezi.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xietiezi.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xiangji.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xiangji.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_like_icon.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_like_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_cancel_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_cancel_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_state_mask.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_switch_state_mask.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\jiantou.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jiantou.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_reply_comment.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_reply_comment.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xie.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xie.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\wodetuce.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\wodetuce.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_comment.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_item_comment.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_find_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_find_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_add_image.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_add_image.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_more.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_more.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_female.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_female.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_new_post.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_new_post.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_back_white.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_back_white.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_nearby_recommend.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_nearby_recommend.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_realtime_icon.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_realtime_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_title_back.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_title_back.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_uncheck.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_uncheck.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_search.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_search.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_add_topic_bg.9.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_add_topic_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_slider_disable.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_switch_slider_disable.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\guanzhuhuati.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\guanzhuhuati.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\postsmall.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\postsmall.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_chat.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_msg_chat.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\gengduo.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\gengduo.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xianghu.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xianghu.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_topic.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_topic.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xiangce.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xiangce.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_user_info_male.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_user_info_male.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\duihuakuang2.9.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\duihuakuang2.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_favorites_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_favorites_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_loc.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_loc.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_location.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_item_location.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\huati.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\huati.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_comment_p.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_comment_p.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_comment.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_msg_comment.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\zuobai.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\zuobai.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\shezhidianji.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\shezhidianji.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_at_friend.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_at_friend.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\zuolan.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\zuolan.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ding.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ding.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\yishoucang.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\yishoucang.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\weishoucang.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\weishoucang.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_user_info_female.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_user_info_female.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\yiguanzhu.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\yiguanzhu.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_setting.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_setting.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_chat_btn.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_chat_btn.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_at_friend_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_at_friend_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_setting_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_setting_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\tongzhi.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\tongzhi.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_forward_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xiaolian.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xiaolian.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\jiaguanzhu.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jiaguanzhu.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\jifen.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jifen.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_pop_bg.9.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_pop_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_normal.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_emojipoint_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\xialalan.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\xialalan.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_like_normal.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_like_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_state_normal.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_switch_state_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_comment_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_community_location.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_community_location.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_male.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_male.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_emojipoint_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_share_normal.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_share_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_comment_p.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_comment_comment_p.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\sixin2.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sixin2.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\kuangh.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\kuangh.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pinglun.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pinglun.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_share_pressed.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_share_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pinglunzanc.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pinglunzanc.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_essential.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_item_essential.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_notice.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_msg_notice.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_user_recommend.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_user_recommend.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\tiezizanh.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\tiezizanh.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_tab_bg.9.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_feed_detail_tab_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_state_disable.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_switch_state_disable.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\fanhui.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\fanhui.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_emoji.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_emoji.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\umeng_comm_xiaolian_press.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umeng_comm_xiaolian_press.png"
+    }
+]

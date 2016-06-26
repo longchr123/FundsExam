@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f5f6fa"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <EditText
+        android:id="@+id/umeng_comm_message_chat_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_20px"
+        android:layout_weight="1"
+        android:background="@drawable/umeng_edit_background"
+        android:focusable="true"
+        android:gravity="center|left"
+        android:inputType="text"
+        android:minHeight="@dimen/umeng_comm_dimen_60px"
+        android:padding="@dimen/umeng_comm_dimen_10px"
+        android:textColor="@color/umeng_comm_color_33"
+        android:textSize="@dimen/umeng_comm_text_30px" />
+
+    <TextView
+        android:id="@+id/umeng_comm_message_chat_send_btn"
+        android:layout_width="@dimen/umeng_comm_dimen_140px"
+        android:layout_height="@dimen/umeng_comm_dimen_60px"
+        android:layout_marginBottom="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_20px"
+        android:background="@drawable/umeng_comm_chat_send_selector"
+        android:gravity="center"
+        android:text="发送"
+        android:textColor="@color/umeng_comm_white_color"
+        android:textSize="@dimen/umeng_comm_text_30px" />
+
+</LinearLayout>

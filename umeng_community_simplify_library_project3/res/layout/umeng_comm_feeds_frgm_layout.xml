@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/umeng_comm_ll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/umeng_comm_feed_list_bg"
+    android:orientation="vertical">
+    <!--<ViewStub-->
+    <!--android:id="@+id/umeng_comm_linear_layout_ll"-->
+    <!--android:inflatedId="@+id/umeng_comm_linear_layout_ll_vs"-->
+    <!--android:layout="@layout/umeng_comm_hotview_view_stub"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content" />-->
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/umeng_comm_instrucment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:text="您登录后，服务器君才知道您关注的帖子哦～"
+            android:textColor="#a5a5a5"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/umeng_comm_tologin"
+            android:layout_width="150dp"
+            android:layout_height="45dp"
+            android:layout_below="@id/umeng_comm_instrucment"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:background="@color/umeng_comm_title"
+            android:text="@string/umeng_comm_login_quick"
+            android:textColor="@color/umeng_comm_white_color" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!-- 消息流列表 -->
+
+        <com.umeng.common.ui.widgets.RefreshLvLayout
+            android:id="@+id/umeng_comm_swipe_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ListView
+                android:id="@+id/umeng_comm_feed_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:animateLayoutChanges="true"
+                android:divider="@color/umeng_comm_feed_list_bg"
+                android:dividerHeight="@dimen/umeng_comm_dimen_10px"
+                android:fadingEdgeLength="0.0sp"
+                android:fastScrollEnabled="false"
+                android:headerDividersEnabled="false"
+                android:listSelector="@android:color/transparent"
+                android:scrollbars="none"
+                android:scrollingCache="false" />
+        </com.umeng.common.ui.widgets.RefreshLvLayout>
+
+        <!-- 发布feed按钮 -->
+
+        <ImageView
+            android:id="@+id/umeng_comm_new_post_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="20dp"
+            android:contentDescription="@string/umeng_comm_new_post"
+            android:src="@drawable/umeng_comm_new_post_btn_style" />
+        <!-- 评论布局 -->
+
+        <include
+            android:id="@+id/umeng_comm_comment_edit_layout"
+            layout="@layout/umeng_comm_comment_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:clickable="true"
+            android:gravity="center"
+            android:visibility="invisible" />
+
+        <com.umeng.common.ui.widgets.BaseView
+            android:id="@+id/umeng_comm_baseview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+    </FrameLayout>
+</LinearLayout>

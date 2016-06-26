@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#df3031" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="8.0dp" >
+
+            <Button
+                android:id="@+id/btn_xiti"
+                android:layout_width="86dip"
+                android:layout_height="36dip"
+                android:background="@drawable/baike_btn_pink_left_f_96"
+                android:gravity="center"
+                android:text="题目练习"
+                android:textColor="#df3031"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/btn_cuoti"
+                android:layout_width="86dip"
+                android:layout_height="36dip"
+                android:background="@drawable/baike_btn_trans_right_f_96"
+                android:gravity="center"
+                android:text="错题记录"
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

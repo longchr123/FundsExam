@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/umeng_comm_dimen_130px"
+    android:background="@android:color/white"
+    android:orientation="horizontal">
+
+
+    <com.umeng.common.ui.widgets.RoundImageView
+        android:id="@+id/umeng_comm_my_msg_icon_view"
+        android:layout_width="@dimen/umeng_comm_dimen_80px"
+        android:layout_height="@dimen/umeng_comm_dimen_80px"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_20px"
+        android:scaleType="centerCrop"
+        android:src="@drawable/umeng_comm_male" />
+
+    <TextView
+        android:id="@+id/umeng_comm_my_msg_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/umeng_comm_my_msg_icon_view"
+        android:text="评论"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/umeng_comm_text_32px" />
+
+    <ImageView
+        android:id="@+id/umeng_comm_my_msg_arrow"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_30px"
+        android:src="@drawable/umeng_comm_msg_arrow" />
+
+    <View
+        android:id="@+id/umeng_comm_my_msg_badge_view"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="right"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_30px"
+        android:layout_toLeftOf="@id/umeng_comm_my_msg_arrow"
+        android:background="@drawable/umeng_comm_circle_shape" />
+
+    <View
+        android:id="@+id/umeng_comm_divide_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/umeng_comm_dimen_1px"
+        android:layout_alignParentBottom="true"
+        android:background="@color/umeng_comm_color_de"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_120px" />
+
+</RelativeLayout>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/umeng_comm_e8"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/umeng_comm_white_color">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/umeng_comm_login"
+            android:textColor="@color/umeng_comm_color_33"
+            android:textSize="17sp" />
+
+        <ImageView
+            android:id="@+id/umeng_login_close"
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/umeng_login_close" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layout1"
+        android:layout_marginTop="15dp"
+        android:background="@color/umeng_comm_white_color"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="54dp">
+
+            <ImageView
+                android:id="@+id/image1"
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/umeng_simplify_user_p" />
+
+            <EditText
+                android:id="@+id/umeng_login_num"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/image1"
+                android:background="@null"
+                android:hint="@string/umeng_comm_login_num"
+                android:inputType="textEmailAddress"
+                android:digits="0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ@._"
+                android:textColor="@color/umeng_comm_black_color"
+                android:textColorHint="@color/umeng_comm_color_99"
+                android:textSize="14sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="30dp"
+                android:background="@color/umeng_comm_f6f7f9" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="54dp">
+
+            <ImageView
+                android:id="@+id/image2"
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/umeng_lock" />
+
+            <ImageView
+                android:id="@+id/umeng_secret_style"
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/umeng_hidepassword" />
+
+            <EditText
+                android:id="@+id/umeng_login_secret"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toLeftOf="@id/umeng_secret_style"
+                android:layout_toRightOf="@id/image2"
+                android:background="@null"
+                android:hint="@string/umeng_comm_login_secret"
+                android:password="true"
+                android:inputType="textPassword"
+                android:digits="0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ"
+                android:textColor="@color/umeng_comm_black_color"
+                android:textColorHint="@color/umeng_comm_color_99"
+                android:textSize="14sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="30dp"
+                android:background="@color/umeng_comm_f6f7f9" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/umeng_forget_secret"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/layout2"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/umeng_comm_forget"
+        android:textColor="@color/umeng_comm_469ef8"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/umeng_simplify_login"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@id/umeng_forget_secret"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/umeng_login_btnbg"
+        android:gravity="center"
+        android:text="@string/umeng_simplify_login"
+        android:textColor="@color/umeng_comm_white_color"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/umeng_simplify_register"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@id/umeng_simplify_login"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/umeng_register_btnbg"
+        android:gravity="center"
+        android:text="@string/umeng_simplify_register"
+        android:textColor="@color/umeng_comm_469ef8"
+        android:textSize="18sp" />
+</RelativeLayout>

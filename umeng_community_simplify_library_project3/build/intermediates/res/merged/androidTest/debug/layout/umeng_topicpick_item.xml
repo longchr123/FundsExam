@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_20px">
+
+        <FrameLayout
+            android:id="@+id/umeng_comm_topic_item_holder"
+            android:layout_width="@dimen/umeng_comm_dimen_240px"
+            android:layout_height="@dimen/umeng_comm_dimen_64px"
+            android:background="@drawable/umeng_topicpick_item_bg">
+
+            <TextView
+                android:id="@+id/topicname"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:maxEms="7"
+                android:singleLine="true"
+                android:textColor="@drawable/umeng_text_color"
+                android:textSize="14sp" />
+        </FrameLayout>
+    </FrameLayout>
+
+
+</RelativeLayout>

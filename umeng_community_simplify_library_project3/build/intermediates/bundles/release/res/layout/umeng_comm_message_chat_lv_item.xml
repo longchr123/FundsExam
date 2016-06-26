@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_chat_other_user_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/umeng_comm_dimen_10px"
+        android:paddingBottom="@dimen/umeng_comm_dimen_40px"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_70px">
+
+        <com.umeng.common.ui.widgets.RoundImageView
+            android:id="@+id/umeng_comm_chat_other_user_picture"
+            android:layout_width="@dimen/umeng_comm_dimen_90px"
+            android:layout_height="@dimen/umeng_comm_dimen_90px"
+            android:scaleType="centerCrop"
+            android:src="@drawable/umeng_comm_male" />
+
+        <TextView
+            android:id="@+id/umeng_comm_chat_other_user_msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/umeng_comm_chat_other_user_picture"
+            android:layout_marginLeft="@dimen/umeng_comm_dimen_10px"
+            android:layout_toRightOf="@id/umeng_comm_chat_other_user_picture"
+            android:background="@drawable/duihuakuang1"
+            android:includeFontPadding="false"
+            android:text="@string/umeng_default"
+            android:textColor="@color/umeng_comm_color_33"
+            android:textSize="@dimen/umeng_comm_text_30px" />
+
+        <TextView
+            android:id="@+id/umeng_comm_chat_other_user_msg_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/umeng_comm_chat_other_user_msg"
+            android:layout_alignRight="@id/umeng_comm_chat_other_user_msg"
+            android:layout_below="@id/umeng_comm_chat_other_user_msg"
+            android:layout_marginLeft="@dimen/umeng_comm_dimen_40px"
+            android:layout_marginTop="@dimen/umeng_comm_dimen_10px"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:singleLine="true"
+            android:text="@string/umeng_default"
+            android:textColor="@color/umeng_comm_color_a5"
+            android:textSize="@dimen/umeng_comm_text_22px" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/umeng_comm_chat_user_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/umeng_comm_dimen_10px"
+        android:paddingBottom="@dimen/umeng_comm_dimen_40px"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_70px"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_20px">
+
+        <com.umeng.common.ui.widgets.RoundImageView
+            android:id="@+id/umeng_comm_chat_user_picture"
+            android:layout_width="@dimen/umeng_comm_dimen_90px"
+            android:layout_height="@dimen/umeng_comm_dimen_90px"
+            android:layout_alignParentRight="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/umeng_comm_male" />
+
+        <TextView
+            android:id="@+id/umeng_comm_chat_user_msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/umeng_comm_chat_user_picture"
+            android:layout_marginRight="@dimen/umeng_comm_dimen_10px"
+            android:layout_toLeftOf="@id/umeng_comm_chat_user_picture"
+            android:background="@drawable/duihuakuang2"
+            android:includeFontPadding="false"
+            android:textColor="@color/umeng_comm_white_color"
+            android:minWidth="@dimen/umeng_comm_dimen_40px"
+            android:text="哈哈"
+            android:textSize="@dimen/umeng_comm_text_30px" />
+
+        <TextView
+            android:id="@+id/umeng_comm_chat_user_msg_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/umeng_comm_chat_user_msg"
+            android:layout_below="@id/umeng_comm_chat_user_msg"
+            android:layout_marginLeft="@dimen/umeng_comm_dimen_40px"
+            android:layout_marginTop="@dimen/umeng_comm_dimen_10px"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:singleLine="true"
+            android:text="@string/umeng_default"
+            android:textColor="@color/umeng_comm_color_a5"
+            android:textSize="@dimen/umeng_comm_text_22px" />
+
+
+    </RelativeLayout>
+</LinearLayout>

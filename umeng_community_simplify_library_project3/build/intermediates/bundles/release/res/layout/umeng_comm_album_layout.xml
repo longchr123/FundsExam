@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/umeng_comm_default_background_color"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/umeng_comm_album_title"
+        layout="@layout/umeng_comm_setting_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/umeng_comm_dimen_96px"
+        android:layout_alignParentTop="true" />
+
+    <include
+        android:id="@+id/umeng_comm_album_divide_line"
+        layout="@layout/umeng_comm_divide_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/umeng_comm_dimen_1px"
+        android:layout_below="@id/umeng_comm_album_title" />
+
+    <com.umeng.common.ui.widgets.RefreshGvLayout
+        android:id="@+id/umeng_comm_album_swipe_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/umeng_comm_album_divide_line">
+
+        <GridView
+            android:id="@+id/umeng_comm_user_albun_gv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="false"
+            android:horizontalSpacing="@dimen/umeng_comm_dimen_6px"
+            android:listSelector="@null"
+            android:numColumns="3"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="@dimen/umeng_comm_dimen_6px" />
+    </com.umeng.common.ui.widgets.RefreshGvLayout>
+
+    <com.umeng.common.ui.widgets.BaseView
+        android:id="@+id/umeng_comm_baseview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"/>
+
+</RelativeLayout>

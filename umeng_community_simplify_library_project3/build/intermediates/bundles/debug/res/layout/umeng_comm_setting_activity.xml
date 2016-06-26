@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/umeng_comm_default_background_color"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <!-- title -->
+    <include layout="@layout/umeng_comm_setting_title_bar" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="125dp">
+        <com.umeng.common.ui.widgets.RoundImageView
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:id="@+id/user_head_icon"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="@string/umeng_comm_nickname"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/umeng_comm_color_666666"/>
+       <EditText
+           android:id="@+id/setting_username"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+
+           android:padding="5dp"
+           android:background="@color/umeng_comm_white_color"
+           android:textSize="16dp"
+
+           android:textColor="@color/umeng_comm_color_33"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="@string/umeng_comm_gender"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/umeng_comm_color_666666"/>
+        <TextView
+            android:id="@+id/setting_gender"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textSize="16dp"
+            android:textColor="@color/umeng_comm_color_33"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:text="是否接受推送"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/umeng_comm_color_33"/>
+        <com.umeng.common.ui.widgets.SwitchButton
+            android:id="@+id/umeng_common_switch_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:textSize="15dp"
+            android:id="@+id/setting_loginout"
+            android:text="@string/umeng_comm_setting_logout"
+            android:background="@drawable/umeng_comm_logout_bg"
+            android:textColor="@color/umeng_comm_feed_detail_pressed_yellow"
+            android:layout_marginTop="8dp"/>
+    </RelativeLayout>
+    <!--<FrameLayout-->
+        <!--android:id="@+id/umeng_comm_setting_content"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" >-->
+    <!--</FrameLayout>-->
+
+</LinearLayout>

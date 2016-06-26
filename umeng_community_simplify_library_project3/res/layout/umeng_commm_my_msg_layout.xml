@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/umeng_comm_feed_list_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/umeng_comm_white_color"
+        android:gravity="left"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp">
+
+        <ImageButton
+            android:id="@+id/umeng_comm_title_back_btn"
+            android:layout_width="37dp"
+            android:layout_height="37dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/umeng_comm_new_post"
+            android:padding="@dimen/umeng_comm_dimen_20px"
+            android:scaleType="centerInside"
+            android:src="@drawable/umeng_comm_title_back" />
+
+        <TextView
+            android:id="@+id/umeng_comm_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/umeng_comm_user_center"
+            android:textSize="20dp" />
+
+
+    </RelativeLayout>
+
+    <include layout="@layout/umeng_comm_divide_line" />
+
+    <LinearLayout
+        android:id="@+id/umeng_comm_my_msg_item_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/umeng_comm_my_msg_comment"
+            layout="@layout/umeng_comm_my_msg_item_layout" />
+
+
+        <include
+            android:id="@+id/umeng_comm_my_msg_at"
+            layout="@layout/umeng_comm_my_msg_item_layout" />
+
+        <include
+            android:id="@+id/umeng_comm_my_msg_like"
+            layout="@layout/umeng_comm_my_msg_item_layout" />
+
+
+        <include
+            android:id="@+id/umeng_comm_my_msg_notice"
+            layout="@layout/umeng_comm_my_msg_item_layout" />
+
+        <include
+            android:id="@+id/umeng_comm_my_msg_private_letter"
+            layout="@layout/umeng_comm_my_msg_item_layout" />
+
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:id="@+id/umeng_comm_my_msg_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

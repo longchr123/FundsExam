@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/umeng_comm_white_color"
+        android:gravity="left"
+       >
+
+        <ImageButton
+            android:id="@+id/umeng_comm_title_back_btn"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/umeng_comm_new_post"
+            android:padding="@dimen/umeng_comm_dimen_20px"
+            android:src="@drawable/umeng_backward"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/umeng_comm_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/umeng_comm_user_center"
+            android:textSize="17dp"
+            android:textColor="@color/umeng_comm_color_33"/>
+
+
+    </RelativeLayout>
+    <include layout="@layout/umeng_comm_divide_line" />
+    <FrameLayout
+        android:id="@+id/umeng_comm_my_msg_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+</LinearLayout>

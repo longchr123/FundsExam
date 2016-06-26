@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_big12_size">12sp</dimen>
+    <dimen name="text_big13_size">13sp</dimen>
+    <dimen name="text_big14_size">14sp</dimen>
+    <dimen name="text_big15_size">15sp</dimen>
+    <dimen name="text_big16_size">16sp</dimen>
+    <dimen name="text_big18_size">18sp</dimen>
+    
+    <dimen name="image_item_heght">150dp</dimen>
+    <dimen name="image_item_padding">3dp</dimen>
+    <dimen name="image_item_space">3dp</dimen>
+    
+        <!-- Album相关 -->
+    <dimen name="albumitem_height">100dp</dimen>
+    <dimen name="albumitem_content_height">80dp</dimen>
+    <dimen name="albumitem_image_height">20dp</dimen>
+
+    <!-- CheckBox相关 -->
+    <dimen name="checkbox_height">25dp</dimen>
+
+    <!-- Title 相关高度 -->
+    <dimen name="layout_title_heigh">45dp</dimen>
+    <dimen name="layout_title_heigh_img">90dp</dimen>
+    <dimen name="layout_title_content_heigh">30dp</dimen>
+    <dimen name="layout_title_mini_textsize">16sp</dimen>
+    
+    <!-- 图片选择界面Item相关 -->
+    <dimen name="sticky_item_horizontalSpacing">2dp</dimen>
+    <dimen name="sticky_item_verticalSpacing">2dp</dimen>
+    <dimen name="collection_photo_toolbar_height">45dp</dimen>
+
+    <dimen name="post_detail_side_padding">16dp</dimen>
+
+    <dimen name="umeng_comm_dimen_1px">0.5dp</dimen>
+    <dimen name="umeng_comm_dimen_4px">2dp</dimen>
+    <dimen name="umeng_comm_dimen_6px">3dp</dimen>
+    <dimen name="umeng_comm_dimen_8px">4dp</dimen>
+    <dimen name="umeng_comm_dimen_10px">5dp</dimen>
+    <dimen name="umeng_comm_dimen_12px">6dp</dimen>
+    <dimen name="umeng_comm_dimen_14px">7dp</dimen>
+    <dimen name="umeng_comm_dimen_16px">8dp</dimen>
+    <dimen name="umeng_comm_dimen_18px">9dp</dimen>
+    <dimen name="umeng_comm_dimen_20px">10dp</dimen>
+    <dimen name="umeng_comm_dimen_22px">11dp</dimen>
+    <dimen name="umeng_comm_dimen_24px">12dp</dimen>
+    <dimen name="umeng_comm_dimen_26px">13dp</dimen>
+    <dimen name="umeng_comm_dimen_28px">14dp</dimen>
+    <dimen name="umeng_comm_dimen_30px">15dp</dimen>
+    <dimen name="umeng_comm_dimen_32px">16dp</dimen>
+    <dimen name="umeng_comm_dimen_34px">17dp</dimen>
+    <dimen name="umeng_comm_dimen_38px">19dp</dimen>
+    <dimen name="umeng_comm_dimen_40px">20dp</dimen>
+    <dimen name="umeng_comm_dimen_44px">22dp</dimen>
+    <dimen name="umeng_comm_dimen_46px">23dp</dimen>
+    <dimen name="umeng_comm_dimen_48px">24dp</dimen>
+    <dimen name="umeng_comm_dimen_50px">25dp</dimen>
+    <dimen name="umeng_comm_dimen_56px">28dp</dimen>
+    <dimen name="umeng_comm_dimen_60px">30dp</dimen>
+    <dimen name="umeng_comm_dimen_64px">32dp</dimen>
+    <dimen name="umeng_comm_dimen_68px">34dp</dimen>
+    <dimen name="umeng_comm_dimen_70px">35dp</dimen>
+    <dimen name="umeng_comm_dimen_74px">36dp</dimen>
+    <dimen name="umeng_comm_dimen_76px">38dp</dimen>
+    <dimen name="umeng_comm_dimen_80px">40dp</dimen>
+    <dimen name="umeng_comm_dimen_84px">42dp</dimen>
+    <dimen name="umeng_comm_dimen_88px">44dp</dimen>
+    <dimen name="umeng_comm_dimen_90px">45dp</dimen>
+    <dimen name="umeng_comm_dimen_92px">46dp</dimen>
+    <dimen name="umeng_comm_dimen_96px">48dp</dimen>
+    <dimen name="umeng_comm_dimen_100px">50dp</dimen>
+    <dimen name="umeng_comm_dimen_101px">50.5dp</dimen>
+    <dimen name="umeng_comm_dimen_108px">54dp</dimen>
+    <dimen name="umeng_comm_dimen_120px">60dp</dimen>
+    <dimen name="umeng_comm_dimen_124px">62dp</dimen>
+    <dimen name="umeng_comm_dimen_130px">65dp</dimen>
+    <dimen name="umeng_comm_dimen_134px">67dp</dimen>
+    <dimen name="umeng_comm_dimen_138px">69dp</dimen>
+    <dimen name="umeng_comm_dimen_140px">70dp</dimen>
+    <dimen name="umeng_comm_dimen_150px">75dp</dimen>
+    <dimen name="umeng_comm_dimen_158px">79dp</dimen>
+    <dimen name="umeng_comm_dimen_160px">80dp</dimen>
+    <dimen name="umeng_comm_dimen_170px">85dp</dimen>
+    <dimen name="umeng_comm_dimen_180px">90dp</dimen>
+    <dimen name="umeng_comm_dimen_220px">110dp</dimen>
+    <dimen name="umeng_comm_dimen_240px">120dp</dimen>
+    <dimen name="umeng_comm_dimen_250px">125dp</dimen>
+    <dimen name="umeng_comm_dimen_300px">150dp</dimen>
+    <dimen name="umeng_comm_dimen_320px">160dp</dimen>
+    <dimen name="umeng_comm_dimen_340px">170dp</dimen>
+    <dimen name="umeng_comm_dimen_360px">180dp</dimen>
+    <dimen name="umeng_comm_dimen_480px">240dp</dimen>
+
+    <dimen name="umeng_comm_text_16px">8sp</dimen>
+    <dimen name="umeng_comm_text_18px">9sp</dimen>
+    <dimen name="umeng_comm_text_20px">10sp</dimen>
+    <dimen name="umeng_comm_text_22px">11sp</dimen>
+    <dimen name="umeng_comm_text_24px">12sp</dimen>
+    <dimen name="umeng_comm_text_26px">13sp</dimen>
+    <dimen name="umeng_comm_text_28px">14sp</dimen>
+    <dimen name="umeng_comm_text_30px">15sp</dimen>
+    <dimen name="umeng_comm_text_32px">16sp</dimen>
+    <dimen name="umeng_comm_text_34px">17sp</dimen>
+    <dimen name="umeng_comm_text_36px">18sp</dimen>
+
+    <dimen name="text_size_hot">18sp</dimen>
+    <dimen name="mainindicator_text">12sp</dimen>
+
+</resources>

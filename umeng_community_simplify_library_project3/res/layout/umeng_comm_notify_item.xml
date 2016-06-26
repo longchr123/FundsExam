@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/umeng_comm_white_color">
+
+    <com.umeng.common.ui.widgets.RoundImageView
+        android:id="@+id/umeng_comm_notify_user_imageview"
+        android:layout_width="@dimen/umeng_comm_dimen_80px"
+        android:layout_height="@dimen/umeng_comm_dimen_80px"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_20px"
+        android:contentDescription="@string/umeng_comm_desc"
+        android:src="@drawable/umeng_comm_male" />
+
+    <TextView
+        android:id="@+id/umeng_comm_notify_time_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/umeng_comm_notify_user_imageview"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_4px"
+        android:text="昨天"
+        android:textColor="@color/umeng_comm_color_a5"
+        android:textSize="@dimen/umeng_comm_text_20px" />
+
+    <TextView
+        android:id="@+id/umeng_comm_notify_name_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/umeng_comm_notify_user_imageview"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:layout_toLeftOf="@id/umeng_comm_notify_time_tv"
+        android:layout_toRightOf="@id/umeng_comm_notify_user_imageview"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="用户名"
+        android:textColor="@color/umeng_comm_color_33"
+        android:textSize="@dimen/umeng_comm_text_32px" />
+
+    <TextView
+        android:id="@+id/umeng_comm_notify_desc_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_notify_name_tv"
+        android:paddingBottom="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginLeft="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginRight="@dimen/umeng_comm_dimen_20px"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_20px"
+        android:layout_toRightOf="@id/umeng_comm_notify_user_imageview"
+        android:includeFontPadding="false"
+        android:text="通知信息"
+        android:textColor="@color/umeng_comm_color_99"
+        android:textSize="@dimen/umeng_comm_text_26px" />
+
+</RelativeLayout>

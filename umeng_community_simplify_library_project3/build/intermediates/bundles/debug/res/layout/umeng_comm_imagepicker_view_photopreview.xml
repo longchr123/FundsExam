@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:gesture-image="http://schemas.polites.com/android"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/umeng_comm_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/umeng_comm_white_color" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ProgressBar
+            android:id="@+id/umeng_comm_pb_loading_vpp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:indeterminateDrawable="@anim/umeng_comm_pb_default" />
+
+        <com.umeng.common.ui.polites.GestureImageView
+            android:id="@+id/umeng_comm_iv_content_vpp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            gesture-image:max-scale="10.0"
+            gesture-image:min-scale="0.75" />
+        <!--<ImageView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:id="@+id/translate_bg"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:background="@color/umeng_comm_black_color"-->
+            <!--android:alpha="0.2"-->
+            <!--/>-->
+        <!--<Button-->
+            <!--android:id="@+id/check_image"-->
+            <!--android:layout_width="25dp"-->
+            <!--android:layout_height="25dp"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_marginTop="60dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:background="@drawable/umeng_comm_image_pick"-->
+            <!--/>-->
+    </RelativeLayout>
+   
+
+</FrameLayout>

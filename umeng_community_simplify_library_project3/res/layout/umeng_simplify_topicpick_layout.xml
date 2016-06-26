@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/umeng_comm_e8"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/umeng_comm_dimen_160px"
+        android:layout_alignParentTop="true"
+        android:background="@color/umeng_comm_469ef8">
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="66dp"
+            android:src="@drawable/umeng_simplify_cheers" />
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/img"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/img"
+            android:text="@string/umeng_comm_topictip1"
+            android:textColor="@color/umeng_comm_white_color"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="4dp"
+            android:layout_toRightOf="@id/img"
+            android:text="@string/umeng_comm_topictip2"
+            android:textColor="@color/umeng_comm_white_color"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <com.umeng.common.ui.widgets.RefreshGvLayout
+        android:id="@+id/umeng_comm_at_friend_listview"
+        android:layout_width="250dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/title_layout"
+        android:layout_centerInParent="true">
+
+        <GridView
+            android:id="@+id/umeng_comm_topicgrid"
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:horizontalSpacing="10dp"
+            android:listSelector="@color/umeng_comm_color_transparent"
+            android:numColumns="2"
+            android:scrollbars="none"/>
+    </com.umeng.common.ui.widgets.RefreshGvLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.8"
+        android:background="@color/umeng_comm_white_color" />
+
+    <ImageView
+        android:id="@+id/topicpic_back"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="@dimen/umeng_comm_dimen_16px"
+        android:clickable="true"
+        android:src="@drawable/umeng_close_selector_bg" />
+
+</RelativeLayout>

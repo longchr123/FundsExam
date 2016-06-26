@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <!-- 填充颜色 -->
+            <solid android:color="@color/umeng_comm_3f" />
+            <stroke android:width="@dimen/umeng_comm_dimen_1px" android:color="@color/umeng_comm_469ef8" />
+            <!-- 矩形的圆角半径 -->
+            <corners android:radius="@dimen/umeng_comm_dimen_40px" />
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle">
+            <!-- 填充颜色 -->
+            <solid android:color="@color/umeng_comm_469ef8" />
+            <stroke android:width="@dimen/umeng_comm_dimen_1px" android:color="@color/umeng_comm_469ef8" />
+            <!-- 矩形的圆角半径 -->
+            <corners android:radius="@dimen/umeng_comm_dimen_40px" />
+        </shape>
+    </item>
+
+</selector>

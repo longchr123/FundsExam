@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/umeng_comm_dimen_20px">
+
+    <TextView
+        android:id="@+id/umeng_comm_report_comment_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/umeng_comm_more_radius_top"
+        android:gravity="center"
+        android:text="@string/umeng_comm_spam_content"
+        android:textColor="@color/umeng_comm_color_17"
+        android:textSize="@dimen/text_big18_size" />
+
+    <include
+        android:id="@+id/umeng_comm_report_line"
+        layout="@layout/umeng_comm_divide_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/umeng_comm_dimen_1px"
+        android:layout_below="@id/umeng_comm_report_comment_tv" />
+
+    <TextView
+        android:id="@+id/umeng_comm_reply_comment_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_report_line"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/umeng_comm_more_radius_bottom"
+        android:gravity="center"
+        android:text="@string/umeng_comm_reply"
+        android:textColor="@color/umeng_comm_color_17"
+        android:textSize="@dimen/text_big18_size" />
+
+    <TextView
+        android:id="@+id/umeng_comm_cancel_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/umeng_comm_reply_comment_tv"
+        android:layout_marginTop="@dimen/umeng_comm_dimen_30px"
+        android:background="@drawable/umeng_comm_radius_bg"
+        android:gravity="center"
+        android:text="@string/umeng_comm_cancel"
+        android:textColor="@color/umeng_comm_color_17"
+        android:textSize="@dimen/text_big18_size" />
+
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/umeng_comm_dimen_96px"
+    android:background="@android:color/white"
+    android:paddingRight="@dimen/umeng_comm_dimen_20px">
+
+    <ImageView
+        android:id="@+id/umeng_comm_title_back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/umeng_comm_new_post"
+        android:scaleType="centerInside"
+        android:paddingLeft="@dimen/umeng_comm_dimen_28px"
+        android:paddingRight="@dimen/umeng_comm_dimen_20px"
+        android:src="@drawable/umeng_comm_title_back" />
+
+    <TextView
+        android:id="@+id/umeng_comm_title_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ellipsize="end"
+        android:maxWidth="180dp"
+        android:singleLine="true"
+        android:text="@string/umeng_comm_user_center"
+        android:textSize="20dp" />
+
+
+    <ImageButton
+        android:id="@+id/umeng_comm_title_setting_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/umeng_comm_setting_bt"
+        android:contentDescription="@string/umeng_comm_new_post" />
+
+    <ToggleButton
+        android:id="@+id/umeng_comm_favourite_btn"
+        android:layout_width="@dimen/umeng_comm_dimen_40px"
+        android:layout_height="@dimen/umeng_comm_dimen_40px"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/umeng_comm_favourite_button"
+        android:contentDescription="@string/umeng_comm_new_post"
+        android:textOff=""
+        android:textOn=""
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/umeng_comm_post_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15dp"
+        android:layout_toLeftOf="@id/umeng_comm_favourite_btn"
+        android:background="@drawable/xie"
+        android:contentDescription="@string/umeng_comm_new_post"
+        android:visibility="invisible" />
+
+</RelativeLayout>

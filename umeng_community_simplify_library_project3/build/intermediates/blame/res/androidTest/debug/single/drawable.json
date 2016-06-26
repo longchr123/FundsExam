@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_selector_switch_slider.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_selector_switch_slider.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_color_12_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_color_12_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_topic_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_topic_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_hot_button_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_hot_button_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_switch_leftbutton_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_switch_leftbutton_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_forward_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_forward_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_setting_logout_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_setting_logout_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_select_topic_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_select_topic_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_camera_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_camera_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_comment_like_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_comment_like_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_back_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_back_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_checkbox_style.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_checkbox_style.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_item_topic_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_item_topic_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_topic_icon.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_topic_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_send_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_send_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_add_pic_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_add_pic_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_favorate.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_favorate.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_imagepicker_back_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_imagepicker_back_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_search_frame_style.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_search_frame_style.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_retangle.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_retangle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_reply_comment_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_reply_comment_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_current_pos_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_current_pos_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_blue_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_find.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_find.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_photo_pick_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_photo_pick_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_rounded_corner_backgroud.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_rounded_corner_backgroud.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_select_location_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_select_location_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_like_more_user.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_like_more_user.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_radio_button_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_radio_button_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_comment_msg_tv_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_comment_msg_tv_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_logout_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_logout_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_item_like_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_item_like_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_item_tv_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_item_tv_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_not_found.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_not_found.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_wodedongtai.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_wodedongtai.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_edit_background.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_edit_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_close_selector_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_close_selector_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_register_btnbg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_register_btnbg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_chat_send_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_chat_send_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_chat_send_n.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_chat_send_n.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_gray_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_gray_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_toastbg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_toastbg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_detail_like_count_tv_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_detail_like_count_tv_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_more_radius_none.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_more_radius_none.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_yellow_n.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_yellow_n.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_yellow_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_yellow_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_smallbutton.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_smallbutton.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_round_image.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_round_image.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_radius_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_radius_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_community_topic_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_community_topic_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_xiaolian.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_xiaolian.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_more_radius_bottom.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_more_radius_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_search_button_style.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_search_button_style.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_setting_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_setting_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_send_button.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_send_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_blue_n.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_blue_n.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_detail_like_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_detail_like_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_select_topic_tv_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_select_topic_tv_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_delete.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_delete.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_selector_switch_state.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_selector_switch_state.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_segment_shape.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_segment_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_backward.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_backward.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_received_comment_triangle.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_received_comment_triangle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_comment_msg_tv_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_comment_msg_tv_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_color_ff_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_color_ff_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_item_like_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_item_like_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_blue_button_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_blue_button_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_at_friend_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_at_friend_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_topic_togglebutton.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_topic_togglebutton.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_image_pick.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_image_pick.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_button_text_color.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_button_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_tv_style.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_tv_style.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_detail_like_icon_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_detail_like_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_spam_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_spam_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_find_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_find_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_received_comment_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_received_comment_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_location_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_location_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_detail_comment_input_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_detail_comment_input_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_item_comment_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_item_comment_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_detail_favorite_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_detail_favorite_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_login_btnbg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_login_btnbg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_female.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_female.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_settingbutton_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_settingbutton_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_like_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_like_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_switch_rightbutton_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_switch_rightbutton_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_yellow_p.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_yellow_p.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_blue_p.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_blue_p.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_favorate_click.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_favorate_click.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_favourite_button.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_favourite_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_comment_comment_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_comment_comment_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\morentuf.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\morentuf.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_comment.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_comment.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_user_p.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_user_p.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_item_btn_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_item_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_male.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_male.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_switch_centerbutton_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_switch_centerbutton_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_send_btn_style.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_send_btn_style.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_radio_shape.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_radio_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_circle_shape.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_circle_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_new_post_btn_style.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_new_post_btn_style.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_detail_like_bg_p.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_detail_like_bg_p.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_chat_send_p.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_chat_send_p.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_button_hot_btn_text_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_button_hot_btn_text_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_focus_user_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_focus_user_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_new_post_btn_style.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_new_post_btn_style.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_more_radius_top.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_more_radius_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\blue_line_for_tv.9.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\blue_line_for_tv.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_wodeshoucang.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_wodeshoucang.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_emoji_btn_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_emoji_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_image_save_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_image_save_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_text_color.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_comment_input_send_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_comment_input_send_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_cancel_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_cancel_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_detail_like_bg_n.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_detail_like_bg_n.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_comment_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_comment_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_hot_btn_shape_round.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_hot_btn_shape_round.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_segment_shape_middle.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_segment_shape_middle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_feed_detail_favorite_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_feed_detail_favorite_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_user_n.png",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_user_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_like_bt.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_like_bt.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_emoj.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_emoj.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_indicatorline.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_indicatorline.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_item_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_simplify_feed_detail_like_count_selector.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_simplify_feed_detail_like_count_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_topicpick_item_bg.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_topicpick_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_comm_share.xml",
+        "source": "E:\\workspace\\JiJin\\umeng_community_simplify_library_project3\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_comm_share.xml"
+    }
+]

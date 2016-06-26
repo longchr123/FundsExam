@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@color/colorChoose"
+        android:gravity="center"
+        android:text="资讯"
+        android:textColor="@color/colorBigTitle"
+        android:textSize="20sp" />
+
+
+    <LinearLayout
+        android:id="@+id/lin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_title"
+        android:layout_marginBottom="60dp"
+        android:orientation="vertical"/>
+
+    <include layout="@layout/background_line" />
+
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <RadioButton
+            android:id="@+id/rb_zixun"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:checked="true"
+            android:drawableTop="@drawable/rb_noti"
+            android:gravity="center"
+            android:text="资讯"
+            android:drawablePadding="-2dp"
+            android:textColor="@color/rb_textcolor"
+            android:textSize="10sp" />
+
+        <RadioButton
+            android:id="@+id/rb_xiti"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/rb_main"
+            android:gravity="center"
+            android:text="习题"
+            android:drawablePadding="-2dp"
+            android:textColor="@color/rb_textcolor"
+            android:textSize="10sp" />
+
+        <RadioButton
+            android:id="@+id/rb_cuoti"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/rb_cuoti"
+            android:gravity="center"
+            android:text=""
+            android:textColor="@color/rb_textcolor" />
+
+        <RadioButton
+            android:id="@+id/rb_news"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/rb_media"
+            android:gravity="center"
+            android:text="直播课"
+            android:drawablePadding="-2dp"
+            android:textColor="@color/rb_textcolor"
+            android:textSize="10sp" />
+
+        <RadioButton
+            android:id="@+id/rb_more"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/rb_set"
+            android:gravity="center"
+            android:text="更多"
+            android:drawablePadding="-2dp"
+            android:textColor="@color/rb_textcolor"
+            android:textSize="10sp" />
+    </RadioGroup>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/civ"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/community_home"
+        app:civ_border_color="#ffffff"
+        app:civ_border_width="4dp"
+        />
+</RelativeLayout>
